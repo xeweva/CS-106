@@ -1,0 +1,8 @@
+SBA => DEN, United, $393
+SBA => DEN, American, $589
+LAX => DEN, United, $67
+LAX => DEN, American, $73
+BUR => SFO, American, $360
+BUR => SFO, United, $110
+LAX => DEN, Frontier, $75
+BUR => SFO, United, $155

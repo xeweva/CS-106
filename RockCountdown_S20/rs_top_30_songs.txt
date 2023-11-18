@@ -1,0 +1,29 @@
+1	Like a Rolling Stone	Bob Dylan
+2	Satisfaction	The Rolling Stones
+3	Imagine	John Lennon
+4	What's Going On	Marvin Gaye
+5	Respect	Aretha Franklin
+6	Good Vibrations	The Beach Boys
+7	Johnny B Goode	Chuck Berry
+8	Hey Jude	The Beatles
+9	Smells Like Teen Spirit	Nirvana
+10	What'd I Say	Ray Charles
+11	My Generation	The Who
+12	A Change Is Gonna Come	Sam Cooke
+13	Yesterday	The Beatles
+14	Blowin' in the Wind	Bob Dylan
+15	London Calling	The Clash
+16	I Want to Hold Your Hand	The Beatles
+18	Maybellene	Chuck Berry
+19	Hound Dog	Elvis Presley
+20	Let It Be	The Beatles
+21	Born to Run	Bruce Springsteen
+22	Be My Baby	The Ronettes
+23	In My Life	The Beatles
+24	People Get Ready	The Impressions
+25	God Only Knows	The Beach Boys
+26	(Sittin on) the Dock of the Bay	Otis Redding
+27	Layla	Derek and the Dominos
+28	A Day in the Life	The Beatles
+29	Help!	The Beatles
+30	I Walk the Line	Johnny Cash
